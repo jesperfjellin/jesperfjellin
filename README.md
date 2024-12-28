@@ -1,3 +1,8 @@
+## About me
+
+Open source nut, tools guy, GIS developer trying to automate away my job
+
+
 ## 🗺️ Projects
 
 An overview of some of the projects I have worked on can be found at:
