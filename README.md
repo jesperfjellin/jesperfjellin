@@ -1,6 +1,6 @@
 ## About me
 
-Open source nut, tools guy, GIS developer trying to automate away my job
+Interested in the intersection of hydrology, machine learning and GIS
 
 
 ## 🗺️ Projects
