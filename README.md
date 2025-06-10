@@ -11,4 +11,4 @@ An overview of some of the projects I have worked on can be found at:
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jesperfjellin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jesperfjellin&layout=compact&theme=radical&hide=html,makefile,css)](https://github.com/anuraghazra/github-readme-stats)
