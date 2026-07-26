@@ -3,11 +3,11 @@
 Interested in the intersection of hydrology, machine learning and GIS
 
 
-## 🗺️ Projects
+## Projects
 
 An overview of some of the projects I have worked on can be found at:
 
-🌐 **[jesperfjellin.com](https://jesperfjellin.com)**
+**[jesperfjellin.com](https://jesperfjellin.com)**
 
 
 
